@@ -1,1 +1,1 @@
-This is a NY Times News Analyzer I created using Python and Pandas. I created various visualizations to show trends regarding key words frequency, which words being used most and what are the most discussed topics in the field of science.
+This is a NY Times API News Analyzer I created using Python and Pandas. I created various visualizations to show trends regarding key words frequency, which words being used most and what are the most discussed topics in the field of science.
